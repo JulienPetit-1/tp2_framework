@@ -1,0 +1,15 @@
+{
+  "name": "schema tp2",
+  "csvOptions": {
+    "header": "false",
+    "inferSchema": "true",
+    "delimiter": ","
+  },
+  "fields":
+  [
+    {
+      "date": "06112020",
+      "fillWithDaysAgo": 2
+    }
+  ]
+}
