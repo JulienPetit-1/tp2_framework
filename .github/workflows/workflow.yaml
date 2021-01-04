@@ -2,7 +2,7 @@ name: tp2
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
